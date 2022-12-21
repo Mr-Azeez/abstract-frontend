@@ -1,0 +1,156 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header {
+    background-color: #000;
+    display: flex;
+    height: 70px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100%;  
+    margin-block-start: 0px; 
+}
+.head1 {
+    width: 80%;
+    margin-inline-start: auto;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    padding-left: 40px;
+    color: #fff;
+}
+.head2 {
+    width: 50%;
+    margin-inline-end: auto;
+}
+.btn, .placeholder {
+    height: 30px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 15px;
+    text-align: center;
+}
+.btn {
+    background-color: #4c5fd5;
+    width: 80px;
+}
+.placeholder {
+    color: #fff;
+    background-color: #000;
+    border: 1px solid white;
+}
+.sec1 {
+    width: 100%;
+    height: fit-content;
+    display: block;
+    padding-block-start: 0rem;
+    background-color: #dadbf1;
+    font-size: 3em;
+    text-align: center;
+    margin-block-start: none;
+}
+
+.sec1 p{
+    margin-block-start: none;
+}
+.search {
+    height: 40px;
+    width: 50%;
+    border-radius: 5px;
+    text-shadow: #000;
+}
+.spa {
+    font-size: 20px;
+    margin-right: 50px;
+}
+.head2 {
+    margin-inline-end: auto;
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+a {
+    color: white;
+    text-decoration: none;
+  }
+a:visited {
+    color: grey;
+  }
+a:hover {
+    color: brown;
+  }  
+  a:active {
+    color: white;
+  }
+  .list {
+    color: rgb(15, 138, 179);
+  }
+h4 {
+    font-size: 15px;
+}
+.li1 {
+    width: 300px;
+
+}
+.li2 {
+    width: 300px;
+
+}
+.li3 {
+    width: 300px;
+
+}
+.li4 {
+    width: 300px;
+
+}
+.li5 {
+    width: 300px;
+
+}
+.li6 {
+    width: 300px;
+
+}
+.container {
+border: 1px;
+display: flex;
+justify-content: space-around;
+width: 90%;
+margin-inline: auto;
+}
+.container1 {
+    width: 30%;
+}
+footer {
+    background-color: #000;
+    height: 230px;
+    width: 100%;
+    display: flex;
+    color: #fff;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+h5 {
+    font-size: 1rem;
+    font-weight: bold;
+}
+h6 {
+    font-size: 0.9rem;
+    font-weight: bold;
+    line-height: 4px;
+}
+.d1 {
+    width: 20%;
+    margin-left: 30px;
+}
+.d2 {
+    width: 20%;
+}
+.d3 {
+    width: 20%;    
+}
+.d4 {
+    width: 20%;
+}
+.d5 {
+    width: 20%;
+}
